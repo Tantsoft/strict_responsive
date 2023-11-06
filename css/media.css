@@ -1,0 +1,47 @@
+/* small device */
+
+@media screen and (max-width:576px){
+    .container{
+        width:576px;
+        margin: 0 auto;
+    }
+
+
+    .overly h3{
+        font-size: 60px;
+        text-transform: uppercase;
+    }
+    
+    .line{
+        width: 300px;
+        height: 2px;
+        background-color: #15a4fa;
+        margin: 0 auto;
+    }
+    
+    .overly p{
+        padding-top: 40px;
+        font-size: 14px;
+        padding-bottom: 60px;
+    }
+    
+    .overly a{
+         padding: 10px;
+         border: 2px solid #15a4fa;
+         border-radius: 3px;
+         color: black;
+    }
+    
+    
+    
+}
+
+  
+   
+
+/* medium device */
+@media screen and (min-width:576px) and (max-width:768px)
+{
+
+   
+}
